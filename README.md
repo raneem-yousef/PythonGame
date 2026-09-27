@@ -28,10 +28,6 @@ The game includes player movement, shooting, enemies, scoring, sound effects, an
 * `demonstration/` — Game demonstration
 * `requirements.txt` — Required Python packages
 
-## Demo
-
-![Game Demo](demonstration/running.gif)
-
 ## How to Run
 
 1. Clone the repository.
